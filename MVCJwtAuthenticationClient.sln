@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCJwtAuthenticationClient", "MVCJwtAuthenticationClient\MVCJwtAuthenticationClient.csproj", "{D95102A4-1EE9-4433-8A14-BC10076865FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D95102A4-1EE9-4433-8A14-BC10076865FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95102A4-1EE9-4433-8A14-BC10076865FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95102A4-1EE9-4433-8A14-BC10076865FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95102A4-1EE9-4433-8A14-BC10076865FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF6CDB1-AC24-41D0-B4A3-4319EA72CDF6}
+	EndGlobalSection
+EndGlobal
